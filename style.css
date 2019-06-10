@@ -1,0 +1,40 @@
+html{
+	background-image: url("jane.jpg");
+	background-size: cover;
+	background-color: rgba(0,0,0,0.3);
+	background-blend-mode: multiply;
+
+}
+.box{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+
+}
+.block{
+	width:70vw;
+	height:70vh;
+	background-color: #000;
+}
+.model{
+	padding: 20px;
+	text-align: center;
+}
+img{
+	border-radius: 50%;
+
+}
+h3{
+   text-decoration: underline; 
+   color: #fff;
+   text-align: center;
+   word-spacing: 0.3em;
+   letter-spacing: 0.2em;
+}
+h5{
+	text-align: center;
+	word-spacing: 0.3em;
+	letter-spacing: 0.2em;
+	color: #333;
+}
