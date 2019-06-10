@@ -38,3 +38,13 @@ h5{
 	letter-spacing: 0.2em;
 	color: #333;
 }
+i{
+	color: red;
+	font-size: 2rem;
+}
+i:hover{
+	color: blue;
+}
+.image{
+	text-align: center;
+}
